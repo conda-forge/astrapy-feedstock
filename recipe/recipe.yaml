@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "2.3.0"
+  version: "2.3.2"
 
 package:
   name: astrapy
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/astrapy/astrapy-${{ version }}.tar.gz
-  sha256: b62f02a0b5f4e2475dbd2cc097f5ae23f59193fe118f46d37a98dad3167b71c1
+  sha256: febf5dda5df9ac432ba1754484879545f5dd74c987ec2f14bd2203877bee5ba4
 
 build:
   number: 0
